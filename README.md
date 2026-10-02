@@ -16,7 +16,7 @@ row per provider. No name matching is involved anywhere.
 Medicare prescribing and billing, education and hospital affiliations — for example the
 [payment rankings](https://npiwho.com/payments) by state and specialty.
 
-Also on **[Kaggle](https://www.kaggle.com/datasets/npiwho/us-provider-payments)**, and archived with a DOI on **[Zenodo](https://doi.org/10.5281/zenodo.23098004)**.
+Also on **[Kaggle](https://www.kaggle.com/datasets/npiwho/us-provider-payments)** and **[Hugging Face](https://huggingface.co/datasets/npiwho/us-provider-payments)**, and archived with a DOI on **[Zenodo](https://doi.org/10.5281/zenodo.23098004)**.
 
 Current data: see [`data/VERSION.json`](data/VERSION.json).
 
