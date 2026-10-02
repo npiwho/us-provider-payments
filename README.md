@@ -1,5 +1,7 @@
 # US Provider Industry Payments — the NPI registry joined to CMS Open Payments
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23098004.svg)](https://doi.org/10.5281/zenodo.23098004)
+
 One row per US healthcare provider who received a payment from a drug or device company between
 2019 and 2025: the provider's NPI, registered specialty and location from the national NPI registry
 (NPPES), next to the total CMS Open Payments reports for them, the number of payments, the largest
@@ -13,6 +15,8 @@ row per provider. No name matching is involved anywhere.
 **Browse it online:** every provider is a page on **[npiwho.com](https://npiwho.com/)** — with
 Medicare prescribing and billing, education and hospital affiliations — for example the
 [payment rankings](https://npiwho.com/payments) by state and specialty.
+
+Also on **[Kaggle](https://www.kaggle.com/datasets/npiwho/us-provider-payments)**, and archived with a DOI on **[Zenodo](https://doi.org/10.5281/zenodo.23098004)**.
 
 Current data: see [`data/VERSION.json`](data/VERSION.json).
 
@@ -74,7 +78,7 @@ If you use this data, please link to [npiwho.com](https://npiwho.com/), where it
 browsable:
 
 ```
-NPI Who (2026). US Provider Industry Payments: the NPI registry joined to CMS Open Payments. https://npiwho.com/
+NPI Who (2026). US Provider Industry Payments: the NPI registry joined to CMS Open Payments. Zenodo. https://doi.org/10.5281/zenodo.23098004
 ```
 
 ## Updates

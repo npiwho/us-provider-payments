@@ -5,6 +5,7 @@ title: "US Provider Industry Payments: the NPI registry joined to CMS Open Payme
 authors:
   - name: NPI Who
     website: "https://npiwho.com/"
+doi: "10.5281/zenodo.23098004"
 repository-code: "https://github.com/npiwho/us-provider-payments"
 url: "https://npiwho.com/"
 license: CC0-1.0
