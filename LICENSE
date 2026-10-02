@@ -1,0 +1,12 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+The data in this repository comes from the U.S. Centers for Medicare & Medicaid Services (NPPES and
+Open Payments). Works of the U.S. government are in the public domain (17 U.S.C. § 105). To the
+extent that the selection, arrangement and joining of that data adds anything protectable, NPI Who
+waives all of it under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Specialty names follow the NUCC Health Care Provider Taxonomy code set (https://www.nucc.org/).
+
+This is a convenience copy, not an official record. Verify a provider's details with NPPES
+(https://npiregistry.cms.hhs.gov/) and individual payments with CMS Open Payments
+(https://openpaymentsdata.cms.gov/).

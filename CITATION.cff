@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to npiwho.com, where it is maintained and browsable."
+type: dataset
+title: "US Provider Industry Payments: the NPI registry joined to CMS Open Payments"
+authors:
+  - name: NPI Who
+    website: "https://npiwho.com/"
+repository-code: "https://github.com/npiwho/us-provider-payments"
+url: "https://npiwho.com/"
+license: CC0-1.0
+keywords:
+  - NPI
+  - CMS Open Payments
+  - Sunshine Act
+  - healthcare providers

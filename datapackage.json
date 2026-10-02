@@ -1,0 +1,48 @@
+{
+  "name": "us-provider-industry-payments",
+  "title": "US healthcare providers and the industry payments reported to them (NPI registry joined to CMS Open Payments)",
+  "homepage": "https://npiwho.com/",
+  "version": "2026-10-02",
+  "sources": [
+    {
+      "title": "CMS National Plan and Provider Enumeration System (NPPES)",
+      "path": "https://download.cms.gov/nppes/NPI_Files.html"
+    },
+    {
+      "title": "CMS Open Payments, program years 2019-2025",
+      "path": "https://openpaymentsdata.cms.gov/"
+    },
+    {
+      "title": "NUCC Health Care Provider Taxonomy",
+      "path": "https://www.nucc.org/"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "US government works (public domain); compilation released under CC0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "provider_industry_payments",
+      "path": "data/provider_industry_payments.csv.gz",
+      "format": "csv",
+      "compression": "gz",
+      "description": "1,649,041 providers with at least one reported payment, 2019-2025"
+    },
+    {
+      "name": "payments_by_state",
+      "path": "data/payments_by_state.csv",
+      "format": "csv",
+      "description": "56 states and territories"
+    },
+    {
+      "name": "payments_by_specialty",
+      "path": "data/payments_by_specialty.csv",
+      "format": "csv",
+      "description": "698 specialties with payments"
+    }
+  ]
+}

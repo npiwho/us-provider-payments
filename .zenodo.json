@@ -1,0 +1,11 @@
+{
+  "upload_type": "dataset",
+  "title": "US Provider Industry Payments: the NPI registry joined to CMS Open Payments",
+  "description": "<p>One row per US healthcare provider who received a general payment from a drug or device company in 2019–2025: NPI, registered specialty and practice location from the national NPI registry (NPPES), next to the total reported in CMS Open Payments, the number of payments, the largest paying company and the kind of payment with the largest total. Plus totals by state and by specialty. The two CMS sources are joined on the NPI; no name matching is involved.</p><p>Browse every provider at <a href=\"https://npiwho.com/\">npiwho.com</a>.</p><p>A payment total is not income and not an allegation. US government works, compilation released under CC0 1.0.</p>",
+  "creators": [{ "name": "NPI Who" }],
+  "license": "cc-zero",
+  "keywords": ["NPI", "NPPES", "CMS Open Payments", "Sunshine Act", "physicians", "industry payments", "conflict of interest", "healthcare", "pharmaceutical industry", "medical devices"],
+  "related_identifiers": [
+    { "identifier": "https://npiwho.com/", "relation": "isDocumentedBy", "resource_type": "other" }
+  ]
+}
