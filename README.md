@@ -18,6 +18,8 @@ Medicare prescribing and billing, education and hospital affiliations — for ex
 
 Also on **[Kaggle](https://www.kaggle.com/datasets/npiwho/us-provider-payments)** and **[Hugging Face](https://huggingface.co/datasets/npiwho/us-provider-payments)**, and archived with a DOI on **[Zenodo](https://doi.org/10.5281/zenodo.23098004)**.
 
+**Reports built from this data:** the [national Open Payments report](https://npiwho.com/reports/us) (the latest year's total, the companies that paid the most, kinds of payment, specialties, states, each stated in a sentence) and [one report per state](https://npiwho.com/reports). How the join is done, which files are used and their dates: [methodology](https://npiwho.com/methodology). The same data is queryable by AI assistants through a free [MCP server](https://npiwho.com/developers/mcp).
+
 Current data: see [`data/VERSION.json`](data/VERSION.json).
 
 ## Files
